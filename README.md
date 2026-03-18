@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0283-move-zeroes) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0344-reverse-string) |
 ## String
 |  |
