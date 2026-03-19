@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
