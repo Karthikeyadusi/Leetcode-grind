@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
