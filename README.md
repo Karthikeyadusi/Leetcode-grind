@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
