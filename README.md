@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0866-prime-palindrome) |
+| [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
