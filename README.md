@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
 ## Number Theory
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
 ## Two Pointers
 |  |
 | ------- |
