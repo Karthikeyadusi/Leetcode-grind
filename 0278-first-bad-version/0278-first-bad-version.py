@@ -11,8 +11,6 @@ class Solution:
                 high = mid
             elif not isBadVersion(mid):
                 low = mid+1
-            elif low==high:
-                return low
         return low
         
         
