@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
