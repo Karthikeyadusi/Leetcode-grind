@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2057-smallest-index-with-equal-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
