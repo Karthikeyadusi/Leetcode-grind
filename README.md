@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
