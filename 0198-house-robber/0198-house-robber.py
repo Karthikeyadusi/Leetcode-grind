@@ -1,8 +1,10 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        maxMoney = [0] * (n+2)
-        for i in range(n-1,-1,-1):
-            maxMoney[i] = max((nums[i] + maxMoney[i+2]), maxMoney[i+1])
-        return maxMoney[0]
-        
+        next1 = 0
+        next2 = 0
+        for i in range(len(nums)-1,-1,-1):
+            current = max((next2 + nums[i]), next1)
+            next2 = next1
+            next1 = current
+        return next1
