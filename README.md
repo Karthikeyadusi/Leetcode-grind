@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0866-prime-palindrome) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
