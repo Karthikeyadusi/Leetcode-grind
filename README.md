@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
