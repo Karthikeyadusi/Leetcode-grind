@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0242-valid-anagram) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0344-reverse-string) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0242-valid-anagram) |
