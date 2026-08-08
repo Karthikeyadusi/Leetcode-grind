@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0198-house-robber) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0242-valid-anagram) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
