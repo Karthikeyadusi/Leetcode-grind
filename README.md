@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0509-fibonacci-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
