@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0055-jump-game) |
+| [0860-lemonade-change](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
