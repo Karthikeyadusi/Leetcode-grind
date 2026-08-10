@@ -1,10 +1,14 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        h = {}
-        for num in nums:
-            h[num] = h.get(num, 0) + 1
-        for key in h:
-            if h[key] == 1:
-                return key
-
+        one = 0
+        two = 1
+        if len(nums) == 1:
+            return nums[0]
+        while two < len(nums):
+            if nums[one] == nums[two]:
+                one+=2
+                two+=2
+            else:
+                return nums[one]
+        return nums[one]
                 
