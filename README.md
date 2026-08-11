@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
 ## Number Theory
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
