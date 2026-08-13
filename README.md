@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
