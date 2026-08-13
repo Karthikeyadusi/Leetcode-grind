@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2057-smallest-index-with-equal-value) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 <!---LeetCode Topics End-->
