@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
 ## Two Pointers
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
