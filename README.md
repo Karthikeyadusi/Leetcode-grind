@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3838-weighted-word-mapping](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Divide and Conquer
 |  |
