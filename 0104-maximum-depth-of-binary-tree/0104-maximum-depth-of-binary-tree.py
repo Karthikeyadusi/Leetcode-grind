@@ -12,4 +12,4 @@ class Solution:
             left = depth(node.left)
             right = depth(node.right)
             return 1 + max(left, right)
-        return depth(root)        
+        return depth(root)  
