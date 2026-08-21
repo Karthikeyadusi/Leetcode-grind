@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-prime-palindrome](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -473,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
