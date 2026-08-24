@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2057-smallest-index-with-equal-value) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 ## Enumeration
 |  |
 | ------- |
@@ -483,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
