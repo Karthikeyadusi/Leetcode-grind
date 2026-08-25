@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
