@@ -1,18 +1,46 @@
 class Solution:
     def shortestBeautifulSubstring(self, s: str, k: int) -> str:
 
-        #optimal solution
+
+        #my version of optimal solution
+
         ones = []
-        candidate = ""
-        best = ""
+        best = float("inf")
+        start = 0
         for i in range(len(s)):
-            if s[i] == '1':
+            if s[i] == "1":
                 ones.append(i)
         for i in range(len(ones)-k+1):
-            candidate = s[ones[i] : ones[i+k-1]+1]
-            if (best == "" or len(candidate) < len(best) or (len(candidate) == len(best) and candidate < best)):
-                best = candidate
-        return best
+            lenght = ones[i+k-1] - ones[i] +1
+            if lenght < best:
+                best = lenght
+                start = i
+            if best == lenght:
+                str1 = s[ones[start]: ones[start+k-1]+1]
+                str2 = s[ones[i] : ones[i+k-1]+1]
+                if str2<str1:
+                    best = lenght
+                    start  = i
+        if best == float("inf"):
+            return ""
+        return s[ones[start] : ones[start+k-1] + 1]
+                
+            
+
+        
+
+        #optimal solution
+        # ones = []
+        # candidate = ""
+        # best = ""
+        # for i in range(len(s)):
+        #     if s[i] == '1':
+        #         ones.append(i)
+        # for i in range(len(ones)-k+1):
+        #     candidate = s[ones[i] : ones[i+k-1]+1]
+        #     if (best == "" or len(candidate) < len(best) or (len(candidate) == len(best) and candidate < best)):
+        #         best = candidate
+        # return best
 
 
 
