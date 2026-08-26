@@ -15,7 +15,7 @@ class Solution:
             if lenght < best:
                 best = lenght
                 start = i
-            if best == lenght:
+            elif best == lenght:
                 str1 = s[ones[start]: ones[start+k-1]+1]
                 str2 = s[ones[i] : ones[i+k-1]+1]
                 if str2<str1:
