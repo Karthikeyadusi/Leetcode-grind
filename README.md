@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1492-the-kth-factor-of-n) |
 | [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1386-cinema-seat-allocation) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3848-check-digitorial-permutation) |
 ## Two Pointers
