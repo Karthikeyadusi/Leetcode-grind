@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
