@@ -1,9 +1,9 @@
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
         def countVowels(word):
-            w = word.lower()
+            w = word
             count = 0
-            vowels = "aeiou"
+            vowels = "aeiouAEIOU"
             for letter in w:
                 if letter in vowels:
                     count+=1
