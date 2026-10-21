@@ -7,13 +7,7 @@ class Solution:
             position = int(word[-1])
             actual = word[:-1]
             result[position-1] = actual
-        print(result)
-        for i, r in enumerate(result):
-            ans+=r
-            if i == len(result)-1:
-                continue
-            else:
-                ans+=" "
+        ans = " ".join(result)
         return ans
 
         
