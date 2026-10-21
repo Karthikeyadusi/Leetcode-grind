@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1386-cinema-seat-allocation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
