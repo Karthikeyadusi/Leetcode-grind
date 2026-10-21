@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1929-concatenation-of-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1773-count-items-matching-a-rule](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/Karthikeyadusi/Leetcode-grind/tree/master/1859-sorting-the-sentence) |
